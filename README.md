@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Mohamed Chellott
-- 👀 I’m interested in web/mobile deve
+- 👀 I’m interested in web/mobile development
+- 🌍 I speak Arabic,English and German 
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chellouttmohamed@gmail.com
