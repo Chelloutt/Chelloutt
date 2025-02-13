@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Mohamed Chellott
 - 👀 I’m interested in web/mobile development
-- 🌍 I speak Arabic,English and German 
-- 🌱 I’m currently learning laravel
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me chellouttmohamed@gmail.com
+- 🌍 I speak Arabic,English,German and a little bit of French
+- 🌱 I’m currently learning Typo3
+- 📫 How to reach me chellottm@gmail.com
 
 <!---
 Chelloutt/Chelloutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
